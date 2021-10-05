@@ -1,2 +1,2 @@
 # Metody-Numeryczne
-Zadania i sprawozdania z labolatoriów z Matod Numerycznych 2021.
+Zadania i sprawozdania z labolatoriów z Metod Numerycznych 2021.
