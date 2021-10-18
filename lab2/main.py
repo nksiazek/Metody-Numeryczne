@@ -141,14 +141,3 @@ def log_plot(x:np.ndarray,y:np.ndarray,xlabel:np.ndarray,ylabel:str,title:str,lo
         return None
 
     return None
-
-#TESTY
-# x1 = np.linspace(-10, 10)
-# x2 = np.linspace(-10, 10)
-#
-# y1 = x1+2
-# y2 = x2**2 - 2*np.sin(x2) + 3
-
-#compare_plot(x1, y1, x2, y2, 'x', 'y', 'compare', 'y1', 'y2')
-#parallel_plot(x1, y1, x2, y2, 'x1', 'y1', 'x2', 'y2', 'title', '|')
-#log_plot(x1, y1, 'x', 'y', 'log plot', 'xy')
